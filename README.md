@@ -42,7 +42,7 @@ Notebook ini berisi implementasi sistem web scraping untuk mengekstrak informasi
 
 ## Catatan Legal & Etika
 
-- Patuhi aturan robots.txt dan terms of service KarirHub
+- Patuhi terms of service KarirHub
 - Gunakan delay yang wajar antar request
 - Hormati privasi data yang dikumpulkan
 
